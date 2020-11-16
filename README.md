@@ -14,13 +14,15 @@ My analysis shows that theater is better in the summer when everyone are free to
 
 ### Analysis of Outcomes Based on Goals
 
-My analysis 
+My analysis shows that teathers with big amount spent are more successful then theater that as little money to spend.
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+
 
 - What can you conclude about the Outcomes based on Goals?
 
