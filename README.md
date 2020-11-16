@@ -18,6 +18,8 @@ My analysis shows that teathers with big amount spent are more successful then t
 
 ### Challenges and Difficulties Encountered
 
+The Challenges for me was understanding the data and what result we are looking for in the data.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
