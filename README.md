@@ -22,10 +22,16 @@ My analysis shows that teathers with big amount spent are more successful then t
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-
+That the most movies are release in the summer and movies succedd more in the summer then any other time.
 
 - What can you conclude about the Outcomes based on Goals?
 
+The outcomes are more successful when more money is given and use in the theater. 
+
 - What are some limitations of this dataset?
 
+It dooesn't look at who acted and what the movie is about or where is the movie from.
+
 - What are some other possible tables and/or graphs that we could create?
+
+We could creates and graphs on the genre of the movie and when people like to watch it or create one on the time of the day that people like watching movies.
